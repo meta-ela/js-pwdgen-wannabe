@@ -1,5 +1,6 @@
 body {
     background-image: url("img/8.png");
+    background-size: cover;
 }
 
 .box {
@@ -7,6 +8,7 @@ body {
     border-radius: 20px;
 }
 
-#eta-utente {
-    color: var(--bs-gray-800);
+.box-psw {
+    background-color: aliceblue;
+    border-radius: 10px;
 }
